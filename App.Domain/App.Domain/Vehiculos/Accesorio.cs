@@ -4,7 +4,7 @@
     {
         Wifi = 1,
 
-        AireAconficionado = 2,
+        AireAcondicionado = 2,
 
         AppleCar = 3,
 

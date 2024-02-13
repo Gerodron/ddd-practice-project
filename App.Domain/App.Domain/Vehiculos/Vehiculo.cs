@@ -1,4 +1,5 @@
 ﻿using App.Domain.Abstractions;
+using App.Domain.Shared;
 using App.Domain.Vehiculos.ValueObjects;
 using App.Domain.Vehiculos.ValuesObjects;
 using System;
@@ -25,7 +26,7 @@ namespace App.Domain.Vehiculos
             Modelo = modelo;
             Vin = vin;
             Direccion = direccion;
-            PrecioVenta = precioVenta;
+            PrecioAlquiler = precioVenta;
             CuotaMantenimiento = cuotaMantenimiento;
             FechaUltimaRenta = fechaUltimaRenta;
             Accesorios = accesorios;
@@ -39,11 +40,11 @@ namespace App.Domain.Vehiculos
 
         public Direccion? Direccion { get; private set; }
 
-        public Moneda? PrecioVenta { get; private set; }
+        public Moneda? PrecioAlquiler { get; private set; }
 
         public Moneda? CuotaMantenimiento { get; private set; }
 
-        public DateTime? FechaUltimaRenta { get; private set; }
+        public DateTime? FechaUltimaRenta { get; internal set; }
 
         public List<Accesorio> Accesorios { get; private set; } = new ();
     }

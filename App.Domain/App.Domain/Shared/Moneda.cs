@@ -1,4 +1,4 @@
-﻿namespace App.Domain.Vehiculos.ValueObjects
+﻿namespace App.Domain.Shared
 {
     public record Moneda(decimal Monto, TipoMoneda TipoMoneda)
     {
@@ -10,7 +10,7 @@
                 throw new InvalidOperationException("El tipo de moneda debe ser el mismo");
             }
 
-            return  new  Moneda(cuotaAnterior.Monto + cuotaActual.Monto, cuotaAnterior.TipoMoneda);
+            return new Moneda(cuotaAnterior.Monto + cuotaActual.Monto, cuotaAnterior.TipoMoneda);
         }
 
 
@@ -18,7 +18,7 @@
 
         public static Moneda Zero(TipoMoneda tipoMoneda) => new(0, tipoMoneda);
 
-        public bool IsZero () => this == Zero(TipoMoneda);
+        public bool IsZero() => this == Zero(TipoMoneda);
 
     }
 }
