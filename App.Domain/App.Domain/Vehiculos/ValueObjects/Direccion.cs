@@ -1,0 +1,12 @@
+﻿namespace App.Domain.Vehiculos.ValuesObjects
+{
+    public record Direccion
+        (
+             string Calle,
+             string Departamento,
+             string Provincia,
+             string Ciudad,
+             string Pais,
+             string Precio
+        );
+}
