@@ -2,6 +2,8 @@
 using App.Domain.Alquileres;
 using App.Domain.Alquileres.Enums;
 using App.Domain.Reviews.Events;
+using App.Domain.Reviews.ValueObjects;
+using App.Domain.Shared;
 
 namespace App.Domain.Reviews
 {
@@ -12,8 +14,8 @@ namespace App.Domain.Reviews
             Guid? vehiculoId,
             Guid alquilerId,
             Guid? userId,
-            int rating,
-            string comentario,
+            Rating rating,
+            Comentario comentario,
             DateTime fechaCreacion
         ) : base(id)
         {
@@ -27,8 +29,8 @@ namespace App.Domain.Reviews
 
         public static Result<Review> Create(
             Alquiler alquiler,
-            int rating,
-            string comentario,
+            Rating rating,
+            Comentario comentario,
             DateTime fechaCreacion
             )
         {
@@ -47,9 +49,9 @@ namespace App.Domain.Reviews
 
         public Guid? UserId { get; private set; }
 
-        public int? Rating { get; private set; }
+        public Rating? Rating { get; private set; }
 
-        public string? Comentario { get; private set; }
+        public Comentario? Comentario { get; private set; }
 
         public DateTime? FechaCreacion { get; private set; }
     }

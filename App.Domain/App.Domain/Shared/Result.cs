@@ -2,7 +2,7 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Net.Http.Headers;
 
-namespace App.Domain.Alquileres
+namespace App.Domain.Shared
 {
     public class Result
     {
@@ -47,14 +47,14 @@ namespace App.Domain.Alquileres
     {
         private readonly TValue? _value;
 
-        protected internal Result( 
-            TValue? value ,
+        protected internal Result(
+            TValue? value,
             bool isSuccess,
             Error error
-        ) 
+        )
             : base(isSuccess, error)
         {
-            _value = value; 
+            _value = value;
         }
 
         [NotNull]

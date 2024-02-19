@@ -1,4 +1,4 @@
-﻿namespace App.Domain.Vehiculos
+﻿namespace App.Domain.Vehiculos.Contracts
 {
     public interface IVehiculoRepository
     {

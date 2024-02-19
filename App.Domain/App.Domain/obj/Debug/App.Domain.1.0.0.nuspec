@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>App.Domain</id>
+    <version>1.0.0</version>
+    <authors>App.Domain</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="fa06827278f510331b4810594dd484d47f15cb51" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="MediatR" version="12.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Domain\App.Domain\bin\Debug\net8.0\App.Domain.dll" target="lib\net8.0\App.Domain.dll" />
+  </files>
+</package>
