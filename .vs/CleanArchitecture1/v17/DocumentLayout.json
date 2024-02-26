@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C74A842C-0AF6-47C5-8AF2-A2B7289D0A03}|App.Application\\App.Application1.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.application\\abstraccions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74A842C-0AF6-47C5-8AF2-A2B7289D0A03}|App.Application\\App.Application1.csproj|solutionrelative:app.application\\abstraccions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\alquileres\\reservaralquiler\\reservaralquilerdomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\alquileres\\reservaralquiler\\reservaralquilerdomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\alquileres\\reservaralquiler\\reservaralquilercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\alquileres\\reservaralquiler\\reservaralquilercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\alquileres\\reservaralquiler\\reservaralquilercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\alquileres\\reservaralquiler\\reservaralquilercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\abstractions\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\abstractions\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88616504-F0CD-4A6B-A1CF-37C4CBE4B7D5}|App.Domain\\App.Domain\\App.Domain.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.domain\\app.domain\\alquileres\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88616504-F0CD-4A6B-A1CF-37C4CBE4B7D5}|App.Domain\\App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\app.domain\\alquileres\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88616504-F0CD-4A6B-A1CF-37C4CBE4B7D5}|App.Domain\\App.Domain\\App.Domain.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.domain\\app.domain\\users\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88616504-F0CD-4A6B-A1CF-37C4CBE4B7D5}|App.Domain\\App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\app.domain\\users\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\abstractions\\clock\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\abstractions\\clock\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88616504-F0CD-4A6B-A1CF-37C4CBE4B7D5}|App.Domain\\App.Domain\\App.Domain.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.domain\\app.domain\\users\\usererros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88616504-F0CD-4A6B-A1CF-37C4CBE4B7D5}|App.Domain\\App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\app.domain\\users\\usererros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\app.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\app.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\abstractions\\messaging2\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\abstractions\\messaging2\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\abstractions\\messaging2\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\abstractions\\messaging2\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\abstractions\\messaging2\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\abstractions\\messaging2\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.aplication\\abstractions\\messaging2\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D8E716-9708-4464-B8A7-8601D84EC269}|App.Aplication\\App.Application.csproj|solutionrelative:app.aplication\\abstractions\\messaging2\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88616504-F0CD-4A6B-A1CF-37C4CBE4B7D5}|App.Domain\\App.Domain\\App.Domain.csproj|c:\\users\\pc\\desktop\\developer web\\.net\\repositorios\\.net-clean-architecture-ddd-net-university\\cleanarchitecture1\\app.domain\\app.domain\\alquileres\\services\\preciodomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88616504-F0CD-4A6B-A1CF-37C4CBE4B7D5}|App.Domain\\App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\app.domain\\alquileres\\services\\preciodomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 240,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Application\\Abstraccions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "App.Application\\Abstraccions\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Application\\Abstraccions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "App.Application\\Abstraccions\\Messaging\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T23:41:03.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservarAlquilerDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerDomainEvent.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerDomainEvent.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerDomainEvent.cs",
+              "RelativeToolTip": "App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T23:13:53.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Domain\\App.Domain\\Users\\ValueObjects\\Email.cs",
+              "RelativeDocumentMoniker": "App.Domain\\App.Domain\\Users\\ValueObjects\\Email.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Domain\\App.Domain\\Users\\ValueObjects\\Email.cs",
+              "RelativeToolTip": "App.Domain\\App.Domain\\Users\\ValueObjects\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T22:57:49.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Email\\IEmailService.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Abstractions\\Email\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Email\\IEmailService.cs",
+              "RelativeToolTip": "App.Aplication\\Abstractions\\Email\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T22:56:19.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Clock\\IDateTimeProvider.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Abstractions\\Clock\\IDateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Clock\\IDateTimeProvider.cs",
+              "RelativeToolTip": "App.Aplication\\Abstractions\\Clock\\IDateTimeProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T22:27:17.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserErros.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Domain\\App.Domain\\Users\\UserErros.cs",
+              "RelativeDocumentMoniker": "App.Domain\\App.Domain\\Users\\UserErros.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Domain\\App.Domain\\Users\\UserErros.cs",
+              "RelativeToolTip": "App.Domain\\App.Domain\\Users\\UserErros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:24:40.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservarAlquilerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerCommandHandler.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerCommandHandler.cs",
+              "RelativeToolTip": "App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:12:30.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservarAlquilerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerCommand.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerCommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerCommand.cs",
+              "RelativeToolTip": "App.Aplication\\Alquileres\\ReservarAlquiler\\ReservarAlquilerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:11:11.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.Application",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\App.Application.csproj",
+              "RelativeDocumentMoniker": "App.Aplication\\App.Application.csproj",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\App.Application.csproj",
+              "RelativeToolTip": "App.Aplication\\App.Application.csproj",
+              "ViewState": "AQIAABMAAADAE+9Yrx8gwAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-25T20:56:12.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging2\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Abstractions\\Messaging2\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging2\\ICommandHandler.cs",
+              "RelativeToolTip": "App.Aplication\\Abstractions\\Messaging2\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:59:42.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging2\\ICommand.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Abstractions\\Messaging2\\ICommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging2\\ICommand.cs",
+              "RelativeToolTip": "App.Aplication\\Abstractions\\Messaging2\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:58:15.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging2\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Abstractions\\Messaging2\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging2\\IQueryHandler.cs",
+              "RelativeToolTip": "App.Aplication\\Abstractions\\Messaging2\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:56:43.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging2\\IQuery.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Abstractions\\Messaging2\\IQuery.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging2\\IQuery.cs",
+              "RelativeToolTip": "App.Aplication\\Abstractions\\Messaging2\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:55:10.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Domain\\App.Domain\\Alquileres\\Alquiler.cs",
+              "RelativeDocumentMoniker": "App.Domain\\App.Domain\\Alquileres\\Alquiler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Domain\\App.Domain\\Alquileres\\Alquiler.cs",
+              "RelativeToolTip": "App.Domain\\App.Domain\\Alquileres\\Alquiler.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwH0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:53:44.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "App.Aplication\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:45:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "App.Aplication\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:24:02.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeToolTip": "App.Aplication\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:22:05.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\Abstractions\\Messaging\\IQuery.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeToolTip": "App.Aplication\\Abstractions\\Messaging\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:11:54.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "App.Aplication\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Aplication\\DependencyInjection.cs",
+              "RelativeToolTip": "App.Aplication\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:01:31.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PrecioDomainService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Domain\\App.Domain\\Alquileres\\Services\\PrecioDomainService.cs",
+              "RelativeDocumentMoniker": "App.Domain\\App.Domain\\Alquileres\\Services\\PrecioDomainService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Developer Web\\.Net\\Repositorios\\.net-clean-architecture-ddd-net-university\\CleanArchitecture1\\App.Domain\\App.Domain\\Alquileres\\Services\\PrecioDomainService.cs",
+              "RelativeToolTip": "App.Domain\\App.Domain\\Alquileres\\Services\\PrecioDomainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:54:57.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

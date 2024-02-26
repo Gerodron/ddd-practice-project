@@ -6,13 +6,13 @@ namespace App.Domain.Users
     {
 
         public static Error NotFound = new Error(
-            "User.Found",
+            "User.NotFound",
             "No existe el usuario buscado por este id"
         );
 
 
-        public static Error Invalid = new Error(
-            "User.Invalid",
+        public static Error InvalidCredentials = new Error(
+            "User.InvalidCredentials",
             "Las credenciales son incorrectas"
         );
 

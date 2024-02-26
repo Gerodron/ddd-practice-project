@@ -52,10 +52,10 @@ namespace App.Domain.Alquileres
                Guid.NewGuid(),
                vehiculo.Id,
                usuarioId,
-               precioDetalle.cuotaMantenimiento,
-               precioDetalle.costoAccesorios,
+               precioDetalle.CuotaMantenimiento,
+               precioDetalle.CostoAccesorios,
                precioDetalle.PrecioTotal,
-               precioDetalle.precioAlquiler,
+               precioDetalle.PrecioAlquiler,
                AlquilerStatus.Reservado,
                periodoAlquiler,
                fechaReservacion);
@@ -123,9 +123,9 @@ namespace App.Domain.Alquileres
             return Result.Success();
         }
 
-        public Guid? VehiculoId { get; private set; }
+        public Guid VehiculoId { get; private set; }
 
-        public Guid? UsuarioId { get; private set; }
+        public Guid UsuarioId { get; private set; }
 
         public Moneda? CuotaMantenimiento { get; private set; }
 

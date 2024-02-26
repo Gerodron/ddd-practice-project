@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 namespace App.Domain.Alquileres.ValueObjects
 {
     public record PrecioDetalle(
-        Moneda precioAlquiler,
-        Moneda cuotaMantenimiento,
-        Moneda costoAccesorios,
+        Moneda PrecioAlquiler,
+        Moneda CuotaMantenimiento,
+        Moneda CostoAccesorios,
         Moneda PrecioTotal
         
         );

@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\bin\Debug\net8.0\App.Application.deps.json
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\bin\Debug\net8.0\App.Application.dll
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\bin\Debug\net8.0\App.Application.pdb
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\bin\Debug\net8.0\App.Domain.dll
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\bin\Debug\net8.0\App.Domain.pdb
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\App.Application.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\App.Application.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\App.Application.AssemblyInfo.cs
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\App.Application.sourcelink.json
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\App.Appl.090A7001.Up2Date
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\App.Application.dll
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\refint\App.Application.dll
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\App.Application.pdb
+C:\Users\PC\Desktop\Developer Web\.Net\Repositorios\.net-clean-architecture-ddd-net-university\CleanArchitecture1\App.Aplication\obj\Debug\net8.0\ref\App.Application.dll
